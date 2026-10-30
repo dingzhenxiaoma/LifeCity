@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6ae2f4"/>
+      <stop offset="1" stop-color="#4d68d7"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#17344b"/>
+      <stop offset="1" stop-color="#0b1d2d"/>
+    </linearGradient>
+  </defs>
+  <rect x="48" y="48" width="928" height="928" rx="224" fill="url(#sky)"/>
+  <path d="M144 608 512 396l368 212-368 212z" fill="url(#ground)" opacity=".94"/>
+  <path d="m268 580 244 140 244-140M390 510l244 140" fill="none" stroke="#7694a5" stroke-width="28" opacity=".65"/>
+  <path d="m512 720 244-140" fill="none" stroke="#7694a5" stroke-width="28" opacity=".65"/>
+  <g stroke="#dffaff" stroke-width="12" stroke-linejoin="round">
+    <path d="m388 565 92-53 92 53v196l-92 53-92-53z" fill="#43bee7"/>
+    <path d="m480 512 92 53-92 53-92-53z" fill="#93edff"/>
+    <path d="m572 565-92 53v196l92-53z" fill="#3279bd"/>
+    <path d="m542 416 75-43 75 43v236l-75 44-75-44z" fill="#6c78e5"/>
+    <path d="m617 373 75 43-75 44-75-44z" fill="#a8b1ff"/>
+    <path d="m692 416-75 44v236l75-44z" fill="#4e56b7"/>
+  </g>
+  <g fill="#fff1a9">
+    <rect x="415" y="640" width="28" height="34" rx="4"/><rect x="415" y="698" width="28" height="34" rx="4"/>
+    <rect x="517" y="640" width="24" height="32" rx="4"/><rect x="517" y="696" width="24" height="32" rx="4"/>
+    <rect x="574" y="492" width="22" height="30" rx="4"/><rect x="574" y="548" width="22" height="30" rx="4"/><rect x="574" y="604" width="22" height="30" rx="4"/>
+    <rect x="646" y="474" width="20" height="28" rx="4"/><rect x="646" y="530" width="20" height="28" rx="4"/><rect x="646" y="586" width="20" height="28" rx="4"/>
+  </g>
+  <circle cx="280" cy="364" r="38" fill="#fff3b8" opacity=".95"/>
+  <path d="M280 296v-34m0 204v-34m68-68h34m-204 0h34m116-48 24-24m-144 144 24-24m96 24 24 24M208 292l24 24" stroke="#fff3b8" stroke-width="14" stroke-linecap="round"/>
+</svg>

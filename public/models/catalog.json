@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "buildings": {
+    "residential": {
+      "1": {
+        "file": "buildings/residential/house-l01.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "2": {
+        "file": "buildings/residential/house-l02.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "3": {
+        "file": "buildings/residential/house-l03.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "4": {
+        "file": "buildings/residential/house-l04.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "5": {
+        "file": "buildings/residential/house-l05.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      }
+    },
+    "development": {
+      "1": {
+        "file": "buildings/development/development-l01.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "2": {
+        "file": "buildings/development/development-l02.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "3": {
+        "file": "buildings/development/development-l03.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "4": {
+        "file": "buildings/development/development-l04.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "5": {
+        "file": "buildings/development/development-l05.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      }
+    },
+    "gaming": {
+      "1": {
+        "file": "buildings/gaming/gaming-l01.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "2": {
+        "file": "buildings/gaming/gaming-l02.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "3": {
+        "file": "buildings/gaming/gaming-l03.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "4": {
+        "file": "buildings/gaming/gaming-l04.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "5": {
+        "file": "buildings/gaming/gaming-l05.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      }
+    },
+    "office": {
+      "1": {
+        "file": "buildings/office/office-l01.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "2": {
+        "file": "buildings/office/office-l02.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "3": {
+        "file": "buildings/office/office-l03.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "4": {
+        "file": "buildings/office/office-l04.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "5": {
+        "file": "buildings/office/office-l05.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      }
+    },
+    "learning": {
+      "1": {
+        "file": "buildings/learning/learning-l01.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "2": {
+        "file": "buildings/learning/learning-l02.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "3": {
+        "file": "buildings/learning/learning-l03.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "4": {
+        "file": "buildings/learning/learning-l04.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "5": {
+        "file": "buildings/learning/learning-l05.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      }
+    },
+    "media": {
+      "1": {
+        "file": "buildings/media/media-l01.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "2": {
+        "file": "buildings/media/media-l02.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "3": {
+        "file": "buildings/media/media-l03.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "4": {
+        "file": "buildings/media/media-l04.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "5": {
+        "file": "buildings/media/media-l05.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      }
+    },
+    "creative": {
+      "1": {
+        "file": "buildings/creative/creative-l01.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "2": {
+        "file": "buildings/creative/creative-l02.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "3": {
+        "file": "buildings/creative/creative-l03.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "4": {
+        "file": "buildings/creative/creative-l04.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      },
+      "5": {
+        "file": "buildings/creative/creative-l05.glb",
+        "scale": 1,
+        "rotationDegrees": 0
+      }
+    }
+  }
+}
