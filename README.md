@@ -1,6 +1,8 @@
 # LifeCity
 
-LifeCity 是一个 Windows 桌面小程序。它记录当前使用的应用，把开发、学习、游戏、创作等活动变成不同城区的成长。城市由六边形地块组成，可以拖动、缩放，也可以点开建筑看看它的等级。
+LifeCity 是一个 Windows 桌面小程序。它记录当前使用的应用，把开发、学习、游戏、创作等活动变成不同城区的成长。比如使用blender等软件，艺术类模块建筑就会增长；使用steam等，娱乐模块建筑就会增长。
+
+城市由六边形地块组成，可以拖动、缩放，也可以点开建筑看看它的等级。
 
 ![LifeCity 城市截图](screenshots/city.png)
 
@@ -19,7 +21,17 @@ npm install
 npm run tauri dev
 ```
 
-浏览器预览用 `npm run dev`，此模式只有演示数据。运行 `npm test` 可执行测试，`npm run tauri build` 可编译桌面程序。
+浏览器预览用 `npm run dev`，此模式只有演示数据。
+
+## 打包 Windows 安装包
+
+在 Windows 上运行：
+
+```powershell
+npm run tauri build
+```
+
+构建完成后，安装包在 `src-tauri/target/release/bundle/nsis/`，文件名类似 `LifeCity_0.1.0_x64-setup.exe`。双击即可安装。
 
 ## 数据与素材
 
